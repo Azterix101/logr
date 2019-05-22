@@ -1,0 +1,2 @@
+# logr
+Simple logging tool
